@@ -1,2 +1,2 @@
 # portfolio
-This is a portfolio website that I created for Web Technology class
+This is a portfolio website that I developed for Web Technology and Contemporary Web Design class
